@@ -1,3 +1,5 @@
+Go to [[Meeple RTS GDD]]
+
 Just general overview of some of the programming and naming convention info.
 
 MRTS = .cpp/.h File prefix. Stands for "Meeple RTS"
