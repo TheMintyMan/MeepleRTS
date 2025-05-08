@@ -29,7 +29,10 @@ void AMRTSController::Move(const FInputActionValue& Value)
 {
 	const FVector2d DirectionValue = Value.Get<FVector2d>();
 
-	const FRotator Rotation = GetControlRotation();
+	// ORconst FRotator Rotation = PossessedPawn->GetActorRotation();
+	
+	const FRotator Rotation = ControlRotation;
+	
 	const FRotator YawRotation(0.f, Rotation.Yaw, 0.f);
 
 	// Move Forward
