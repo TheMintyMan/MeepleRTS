@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Issue Fixes/Controller Fixes.md",
+                "file": "Learning Resources/Learning Programming/Learning AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Controller Fixes"
+              "title": "Learning AI"
             }
           }
         ],
@@ -215,10 +215,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ddfde5757e449c2a",
+  "active": "f9037209ea307bd7",
   "lastOpenFiles": [
-    "MainDocs/Meeple RTS GDD.md",
+    "Learning Resources/Learning Programming/Learning AI.md",
+    "Learning Resources/Learning Programming/Learning Programming.md",
+    "Learning Resources/Learning Programming",
     "Issue Fixes/Controller Fixes.md",
+    "MainDocs/Meeple RTS GDD.md",
     "Issue Fixes",
     "MainDocs/Marketing/Marketing Strategy.md",
     "MainDocs/Programming Overview.md",
@@ -233,7 +236,6 @@
     "Learning Resources/Looked at RTXDI.md",
     "Learning Resources/What's learnt from the project.md",
     "Learning Resources/Learning Art.md",
-    "Learning Resources/Learning Programming.md",
     "MainDocs/Audio",
     "MainDocs/Marketing",
     "Learning Resources",
